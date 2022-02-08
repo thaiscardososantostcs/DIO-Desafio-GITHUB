@@ -2,4 +2,4 @@
 Desafio de projeto do curso DIO-GIT/GITHUB
 
 ## Links úteis 
-[Sintaxe básica Markdown] (https://www.markdownguide.org/)
+[Sintaxe básica Markdown](https://www.markdownguide.org/)
