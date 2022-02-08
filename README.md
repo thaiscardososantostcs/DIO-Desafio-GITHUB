@@ -1,5 +1,4 @@
 # DIO-Desafio-GITHUB
 Desafio de projeto do curso DIO-GIT/GITHUB
 
-## Links úteis 
-[Sintaxe básica Markdown](https://www.markdownguide.org/)
+Consta anotações e resumo sobre o curso de Git/GitHub na plataforma da DIO.
